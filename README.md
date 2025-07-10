@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Represent real-world road networks using graphs
 - Implement Greedy pathfinding algorithms (**Dijkstra**, **A\***)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 DSA Concepts Used
+## DSA Concepts Used
 
 - **Graphs (Adjacency List):** Represents city roads and intersections
 - **Greedy Algorithms:** For optimal path selection
@@ -25,7 +25,7 @@
 
 ---
 
-## 📈 Features
+## Features
 
 - Compute shortest/fastest path between any two city points
 - Handle one-way roads and blocked streets
@@ -34,24 +34,24 @@
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 
-- 🏙Real-time navigation system for smart cities
+- Real-time navigation system for smart cities
 - Traffic-aware logistics and delivery routing
 - Educational tool for demonstrating graph algorithms in urban contexts
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🌐 Frontend
 - **React.js**
 - **Leaflet.js** or **Mapbox GL JS** (for map rendering)
 
-### ⚙️ Backend
+### Backend
 - **Python** with **FastAPI** (for algorithms and APIs)
 
-### 🗃️ Database
+### Database
 - **PostgreSQL** with **PostGIS** (for spatial and geographical queries)
 
 ---
