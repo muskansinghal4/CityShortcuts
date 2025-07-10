@@ -34,6 +34,6 @@ Use historical traffic patterns for predictive routing
 
 
 Tech Stack: 
-FrontEnd:
-BackEnd:
-Database:
+FrontEnd: React + Leaflet/Mapbox GL JS
+BackEnd: Python(w/ FastAPI)
+Database: PostgreSQL with PostGIS
