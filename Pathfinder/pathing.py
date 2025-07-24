@@ -68,7 +68,7 @@ def find_shortest_path_backend(start_lat, start_lng, end_lat, end_lng):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('temp_front.html')
 
 @app.route('/shortest_path', methods=['POST'])
 def get_shortest_path_api():
